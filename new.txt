@@ -1,3 +1,2 @@
-sunday
-monday
-tuesday
+new file
+sample file 
